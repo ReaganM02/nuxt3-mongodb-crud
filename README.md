@@ -8,4 +8,4 @@ Nuxt 3 Basic CRUD(Create, Read, Update, and Delete) example using mongodb. The e
 If your configuration is correct you should be able to make the basic operations.
 
 ##### See it in action
-[![Alt text for your video](https://github.com/ReaganM02/nuxt3-mongodb-crud/blob/master/public/Screenshot%202023-04-28%20at%2010.12.27%20AM.png)](https://res.cloudinary.com/dg1sh76js/video/upload/v1682647798/Screen_Recording_2023-04-28_at_10.08.05_AM_jvib90.mov)
+[![Example video](https://github.com/ReaganM02/nuxt3-mongodb-crud/blob/master/public/Screenshot%202023-04-28%20at%2010.37.29%20AM.png)](https://res.cloudinary.com/dg1sh76js/video/upload/v1682647798/Screen_Recording_2023-04-28_at_10.08.05_AM_jvib90.mov)
