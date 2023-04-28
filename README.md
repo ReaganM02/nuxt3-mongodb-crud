@@ -4,3 +4,5 @@ Nuxt 3 Basic CRUD(Create, Read, Update, and Delete) example using mongodb. The e
 ### Usage
 * Create a `.env` file
 * add `MONGO_URL=YOUR_MONGO_URL`
+
+If your configuration is correct you should be able to make the basic operations.
