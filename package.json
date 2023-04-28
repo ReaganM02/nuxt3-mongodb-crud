@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.6.7",
+    "@types/node": "^18",
+    "mongoose": "^7.1.0",
+    "nuxt": "^3.4.2",
+    "nuxt-security": "^0.13.0"
+  },
+  "dependencies": {
+    "vue-toastification": "^2.0.0-rc.5"
+  }
+}
